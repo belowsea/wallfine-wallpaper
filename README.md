@@ -4,7 +4,7 @@
 <p align="center">Windows x64 · 壁纸管理 · 桌面组件 · 闭源应用</p>
 <p align="center"><a href="https://github.com/belowsea/wallfine-wallpaper/releases/latest">下载 Windows 版</a> · <a href="https://www.wallfine.cn">官方网站</a> · <a href="docs/installation.md">安装与常见问题</a> · <a href="https://github.com/belowsea/wallfine-wallpaper/issues/new/choose">反馈问题</a></p>
 
-![Wallfine 壁纸中心](assets/screenshots/wallpaper-center.jpg)
+![Wallfine 壁纸中心](assets/screenshots/wallfine-ts.jpg)
 
 Wallfine 将壁纸浏览、收藏、本地图库和桌面组件放在一起，让寻找风景和日常桌面操作更顺手。本仓库用于公开展示、发布安装包和收集反馈，**不提供应用源码**。
 

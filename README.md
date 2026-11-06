@@ -26,7 +26,7 @@ Wallfine 将壁纸浏览、收藏、本地图库和桌面组件放在一起，�
 
 ### 桌面组件
 
-![八个桌面组件](assets/screenshots/desktop-widgets.jpg)
+![八个桌面组件](assets/screenshots/wallfine-zj.png)
 
 ### 灵动岛与局域网传输
 

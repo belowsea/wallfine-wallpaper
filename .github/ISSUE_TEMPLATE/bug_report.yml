@@ -1,0 +1,43 @@
+name: 问题反馈
+description: 报告可复现的应用问题。
+title: "[问题] "
+labels: []
+body:
+  - type: checkboxes
+    attributes:
+      label: 提交前确认
+      options:
+        - label: 我已搜索现有问题，并移除截图和日志中的账号、路径、连接码、令牌及密钥。
+          required: true
+  - type: input
+    id: version
+    attributes:
+      label: Wallfine 版本
+      placeholder: 例如 1.0.4（GitHub / 官网下载）
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: 运行环境
+      placeholder: Windows 版本、屏幕数量和缩放比例；音乐问题注明播放器版本
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      placeholder: 从哪个页面开始，依次做了什么？
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: 期望与实际结果
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 脱敏截图、错误文字或补充信息
+      description: 不要附加完整应用数据目录、未经检查的日志或有效配对链接。

@@ -1,0 +1,17 @@
+name: 功能建议
+description: 说明你想完成的任务与希望的体验。
+title: "[建议] "
+body:
+  - type: textarea
+    id: scenario
+    attributes:
+      label: 使用场景与当前阻碍
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 希望的改进
+      description: 可以补充有权分享的参考图；不要上传个人敏感内容。
+    validations:
+      required: true

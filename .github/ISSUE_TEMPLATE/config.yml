@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 安装与常见问题
+    url: https://github.com/belowsea/wallfine-wallpaper/blob/main/docs/installation.md
+    about: 提交反馈前先查看安装和使用说明。
+  - name: 账号、支付、隐私或安全问题
+    url: https://www.wallfine.cn
+    about: 请通过官网联系方式私下联系，不在公开 Issue 中提交敏感信息。

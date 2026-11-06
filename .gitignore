@@ -1,0 +1,18 @@
+# Public documentation and screenshot repository: explicit allowlist.
+*
+!.gitignore
+!README.md
+!CHANGELOG.md
+!THIRD_PARTY_NOTICES.md
+!docs/
+!docs/*.md
+!docs/third-party/
+!docs/third-party/*.txt
+!assets/
+!assets/logo.png
+!assets/screenshots/
+!assets/screenshots/*.jpg
+!assets/screenshots/*.png
+!.github/
+!.github/ISSUE_TEMPLATE/
+!.github/ISSUE_TEMPLATE/*.yml
